@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cheeseburger
+* source:	https://sketchfab.com/3d-models/cheeseburger-7b557f8ec9674555b3bdf9ff3a0ac42c
+* author:	urbanmasque (https://sketchfab.com/urbanmasque)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cheeseburger" (https://sketchfab.com/3d-models/cheeseburger-7b557f8ec9674555b3bdf9ff3a0ac42c) by urbanmasque (https://sketchfab.com/urbanmasque) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
