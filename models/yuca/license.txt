@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yuca
+* source:	https://sketchfab.com/3d-models/yuca-26e33def99a14c86a4c7ac6c40b0f254
+* author:	Diego_ruiz1 (https://sketchfab.com/Diego_ruiz1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yuca" (https://sketchfab.com/3d-models/yuca-26e33def99a14c86a4c7ac6c40b0f254) by Diego_ruiz1 (https://sketchfab.com/Diego_ruiz1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	olla02
+* source:	https://sketchfab.com/3d-models/olla02-90415db9abc046d2b8b922c0901c6bbc
+* author:	ocastaneda91 (https://sketchfab.com/ocastaneda91)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "olla02" (https://sketchfab.com/3d-models/olla02-90415db9abc046d2b8b922c0901c6bbc) by ocastaneda91 (https://sketchfab.com/ocastaneda91) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

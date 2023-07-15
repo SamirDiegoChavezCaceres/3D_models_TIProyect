@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grapes
+* source:	https://sketchfab.com/3d-models/grapes-e8f7256c88cd4530b26abf439a9b250d
+* author:	Microsoft (https://sketchfab.com/microsoft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grapes" (https://sketchfab.com/3d-models/grapes-e8f7256c88cd4530b26abf439a9b250d) by Microsoft (https://sketchfab.com/microsoft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

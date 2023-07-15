@@ -1,0 +1,11 @@
+Model Information:
+* title:	iglesia modular
+* source:	https://sketchfab.com/3d-models/iglesia-modular-f74b21369d8a4aac96330b026e3c7b61
+* author:	davidoloul (https://sketchfab.com/davidoloul)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "iglesia modular" (https://sketchfab.com/3d-models/iglesia-modular-f74b21369d8a4aac96330b026e3c7b61) by davidoloul (https://sketchfab.com/davidoloul) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

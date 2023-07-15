@@ -1,0 +1,11 @@
+Model Information:
+* title:	Queso
+* source:	https://sketchfab.com/3d-models/queso-0c83b422aa634c99918624d3b7d968c7
+* author:	Joseph Flores (https://sketchfab.com/yosept.flores)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Queso" (https://sketchfab.com/3d-models/queso-0c83b422aa634c99918624d3b7d968c7) by Joseph Flores (https://sketchfab.com/yosept.flores) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
