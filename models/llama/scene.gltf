@@ -1,0 +1,261 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11871,
+      "max": [
+        1.0010939836502075,
+        7.811185836791992,
+        3.994295835494995
+      ],
+      "min": [
+        -0.9990745782852173,
+        -0.0030847787857055664,
+        -2.677306890487671
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 142452,
+      "componentType": 5126,
+      "count": 11871,
+      "max": [
+        0.9999213218688965,
+        0.9999808669090271,
+        0.9996533393859863
+      ],
+      "min": [
+        -0.9999248385429382,
+        -0.99988853931427,
+        -0.9997988343238831
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11871,
+      "max": [
+        0.9906600117683411,
+        0.9918500185012817
+      ],
+      "min": [
+        0.004889999981969595,
+        0.004499971866607666
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 64800,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3d.designer.creater (https://sketchfab.com/3d.designer.creater)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lhama-2b52811ffef74e8b923b8523e894921c",
+      "title": "LHAMA"
+    },
+    "generator": "Sketchfab-14.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 259200,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 94968,
+      "byteOffset": 259200,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 284904,
+      "byteOffset": 354168,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 639072,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        26.989330291748047,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        26.989330291748047,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        26.989330291748047,
+        0.0,
+        0.0,
+        7.059605121612549,
+        0.0,
+        1.0
+      ],
+      "name": "root_1"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.06552115082740784,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.06552115082740784,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.06552115082740784,
+        0.0,
+        -6.592366116819903e-05,
+        -0.2557978928089142,
+        0.21285471320152283,
+        1.0
+      ],
+      "name": "node_id31_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hamburguer
+* source:	https://sketchfab.com/3d-models/hamburguer-9eeca340baa24e6f969acd1d9999104f
+* author:	williamornelas (https://sketchfab.com/williamornelas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hamburguer" (https://sketchfab.com/3d-models/hamburguer-9eeca340baa24e6f969acd1d9999104f) by williamornelas (https://sketchfab.com/williamornelas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

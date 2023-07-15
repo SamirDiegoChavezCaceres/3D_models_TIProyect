@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ovni
+* source:	https://sketchfab.com/3d-models/ovni-7ffa48028980448ca95baa8d8dc07aea
+* author:	Bernardmlf (https://sketchfab.com/Bernardmlf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ovni" (https://sketchfab.com/3d-models/ovni-7ffa48028980448ca95baa8d8dc07aea) by Bernardmlf (https://sketchfab.com/Bernardmlf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
